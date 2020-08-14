@@ -1,0 +1,8 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.4.2",
+  "name": "EChartsDemo",
+  "id": "cffdb0b1-42d2-4335-8954-8a1cf541a598",
+  "isNew": false
+}
