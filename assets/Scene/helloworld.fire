@@ -183,7 +183,7 @@
       "array": [
         0,
         0,
-        260.673646539116,
+        314.36722157375124,
         0,
         0,
         0,
@@ -315,7 +315,7 @@
       "__id__": 5
     },
     "_enabled": true,
-    "alignMode": 0,
+    "alignMode": 1,
     "_target": null,
     "_alignFlags": 45,
     "_left": 0,

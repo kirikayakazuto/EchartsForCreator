@@ -11,6 +11,7 @@ export default class Helloworld extends cc.Component {
 
     start () {
         let myChart = echarts.init(this.domHelper.getDom());
+        this.domHelper.echarts = myChart;
         var option = {
             title: {text: 'Line Chart'},
             tooltip: {},
